@@ -1,0 +1,6 @@
+{ "dependencies": { "websocket":"*",
+                    "influxdb":"*"
+  },
+  "devDependencies": { "eslint":"*"
+                     }
+}
